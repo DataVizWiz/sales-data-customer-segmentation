@@ -1,4 +1,4 @@
-# sales-data-customer-segmentation
+# Sales Data Customer Segmentation
 
 This project is a basic customer segmentation analysis by carrying out RFM modelling on de-normalised data and then using the k-means algorithm to cluster the data.
 
